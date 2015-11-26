@@ -13,7 +13,7 @@ namespace ProductsApp.Controllers
 
         Product[] products = new Product[]
         {
-            new Product { Id = 1, Name = "Sopita de tomate3", Category = "Sopitas", Price = 10 },
+            new Product { Id = 1, Name = "Sopita de tomate4", Category = "Sopitas", Price = 10 },
             new Product { Id = 2, Name = "Bocadillo de mierda", Category = "PretAMangui", Price = 3.75M },
             new Product { Id = 3, Name = "Martillo", Category = "Herramientas", Price = 16.99M }
         };
